@@ -1,0 +1,11 @@
+# Treat all CSV files as text
+*.csv text
+
+# Handle line endings for cross-platform compatibility
+*.csv eol=lf
+
+# Use custom diff tool or settings for CSV files (if available)
+*.csv diff=csv
+
+# Optional: Mark CSV files for Git-LFS if they are large
+*.csv filter=lfs diff=lfs merge=lfs -text

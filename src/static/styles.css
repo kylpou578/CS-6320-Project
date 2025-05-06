@@ -1,0 +1,42 @@
+/* Custom styles for the Travel Planning Assistant */
+
+/* Header styles */
+header {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  /* Chatbox styles */
+  .chatbox-custom {
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    padding: 1rem;
+  }
+  
+  /* Accordion styles */
+  .gr-accordion .gr-header {
+    background-color: #f3f4f6;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .gr-accordion .gr-content {
+    padding: 1rem;
+  }
+  
+  /* Travel Tips styles */
+  .bg-gray-100 {
+    background-color: #f3f4f6;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .space-y-4 > * + * {
+    margin-top: 1rem;
+  }
