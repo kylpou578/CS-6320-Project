@@ -1,6 +1,6 @@
 # 🍴 Food Scout - AI Restaurant Recommendations
 
-| ![Overview](https://github.com/DoubleStyx/CS-6320.002-Project/blob/main/images/graph.png?raw=true) | [![🎥 Watch the Demo](https://img.youtube.com/vi/X3G--T7PZB4/0.jpg)](https://www.youtube.com/watch?v=X3G--T7PZB4) |
+| ![Overview](https://github.com/kylpou578/CS-6320-Project/images/overview.png) | [![🎥 Watch the Demo](https://img.youtube.com/vi/X3G--T7PZB4/0.jpg)](https://www.youtube.com/watch?v=X3G--T7PZB4) |
 |:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 | Overview                                                                                           | 🎥 Demo                                                                                                       |
 
