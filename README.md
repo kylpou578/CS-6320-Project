@@ -86,6 +86,3 @@ Open the local URL in your browser to interact with the assistant.
 
 ### Team Members and Contributions
 - **Kyle Poulson**: UI/UX Development - Gradio interface, conversation flow testing, designing user-friendly input prompts.
-
-
->>>>>>> 0a8b1f4a27cc81f189330c2f8882461fcde98831
