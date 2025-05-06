@@ -1,6 +1,6 @@
 # 🍴 Food Scout - AI Restaurant Recommendations
 
-| ![Overview](https://github.com/kylpou578/CS-6320-Project/images/overview.png?raw=true) | [![🎥 Watch the Demo](https://img.youtube.com/vi/X3G--T7PZB4/0.jpg)](https://www.youtube.com/watch?v=X3G--T7PZB4) |
+| ![Overview](https://github.com/kylpou578/CS-6320-Project/images/overview.png?raw=true) | [![🎥 Watch the Demo](https://img.youtube.com/vi/LN-ezKCvtKs/0.jpg)](https://www.youtube.com/watch?v=LN-ezKCvtKs) |
 |:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 | Overview                                                                                           | 🎥 Demo                                                                                                       |
 
@@ -82,7 +82,3 @@ python app.py
 ```
 Access the Interface
 Open the local URL in your browser to interact with the assistant.
-
-
-### Team Members and Contributions
-- **Kyle Poulson**: UI/UX Development - Gradio interface, conversation flow testing, designing user-friendly input prompts.

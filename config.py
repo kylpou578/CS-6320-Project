@@ -38,20 +38,14 @@ MODEL_CONFIG = {
 
 # Dataset configuration
 DATASET_CONFIG = {
-    'hotels_file': RAW_DATA_DIR / 'hotel_reviews.csv',
-    'cities_file': RAW_DATA_DIR / 'worldcities.csv',
-    'routes_file': RAW_DATA_DIR / 'routes.dat'
+    'restaurants_file': RAW_DATA_DIR / 'restaurants.csv'
 }
 
 # API configurations
 API_CONFIG = {
-    'skyscanner': {
-        'api_key': os.getenv('SKYSCANNER_API_KEY', ''),
-        'base_url': 'https://partners.api.skyscanner.net/apiservices'
-    },
-    'openweathermap': {
-        'api_key': os.getenv('OPENWEATHER_API_KEY', ''),
-        'base_url': 'https://api.openweathermap.org/data/2.5'
+    'open_street_map': {
+        'api_key': os.getenv('OPENSTREETMAP_API_KEY', ''),
+        'base_url': 'https://api.openstreetmap.org/'
     }
 }
 
